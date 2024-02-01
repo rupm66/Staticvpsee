@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>RunCloud Panel &#8211; VpsEE</title>
+	<atom:link href="/category/runcloud/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Mon, 20 Nov 2023 14:42:06 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-woowp-new-logo-white-512-32x32.png</url>
+	<title>RunCloud Panel &#8211; VpsEE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nginx 配置 CORS 跨域請求</title>
+		<link>/nginx-cors/</link>
+					<comments>/nginx-cors/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Mon, 20 Nov 2023 14:27:50 +0000</pubDate>
+				<category><![CDATA[RunCloud Panel]]></category>
+		<category><![CDATA[CORS]]></category>
+		<category><![CDATA[Nginx]]></category>
+		<guid isPermaLink="false">/?p=378</guid>
+
+					<description><![CDATA[剛好有客戶有跨網域訪問的需求，搜尋 Google 在 Nginx 配置相關 header 予以解決，把這個設定文件記錄一下。
+<p><a href="/nginx-cors/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/nginx-cors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ubuntu 22.04 LTS 安全更新 – CVE-2023-4911 漏洞</title>
+		<link>/ubuntu-22-04-cve-2023-4911/</link>
+					<comments>/ubuntu-22-04-cve-2023-4911/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Sat, 07 Oct 2023 04:34:36 +0000</pubDate>
+				<category><![CDATA[RunCloud Panel]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<guid isPermaLink="false">/?p=360</guid>
+
+					<description><![CDATA[Ubuntu 發布了一個安全性更新來修復 GNU C 庫漏洞 CVE-2023-4911，其中 GNU C 庫錯誤地處理了 GLIBC_TUNABLES 環境變量。
+<p><a href="/ubuntu-22-04-cve-2023-4911/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/ubuntu-22-04-cve-2023-4911/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>檢查 Web 應用程式使用多少硬碟空間</title>
+		<link>/check-how-much-disk-space/</link>
+					<comments>/check-how-much-disk-space/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Sat, 12 Aug 2023 06:32:57 +0000</pubDate>
+				<category><![CDATA[RunCloud Panel]]></category>
+		<category><![CDATA[RunCloud]]></category>
+		<category><![CDATA[SSH]]></category>
+		<guid isPermaLink="false">/?p=282</guid>
+
+					<description><![CDATA[當你管理數量很多的網站時，如何知道每一個使用者或網站使用了多少的硬碟空間，有可能網站使用空間超額了，你並不知道。
+<p><a href="/check-how-much-disk-space/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/check-how-much-disk-space/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>在 RunCloud 上設置 Optimus Prime 快取預熱</title>
+		<link>/runcloud-optimus-prime/</link>
+					<comments>/runcloud-optimus-prime/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 12:10:04 +0000</pubDate>
+				<category><![CDATA[RunCloud Panel]]></category>
+		<category><![CDATA[Cache]]></category>
+		<category><![CDATA[RunCloud]]></category>
+		<guid isPermaLink="false">/?p=244</guid>
+
+					<description><![CDATA[快取預熱 - 也可以稱之「快取預加載」 (Cache Preloading)，這與 WP Rocket 快取外掛裡的 Preload Cache 功能是很類似的。
+<p><a href="/runcloud-optimus-prime/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/runcloud-optimus-prime/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>RunCloud 上阻止 wp-login.php 暴力攻擊</title>
+		<link>/runcloud-login/</link>
+					<comments>/runcloud-login/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2023 03:02:26 +0000</pubDate>
+				<category><![CDATA[RunCloud Panel]]></category>
+		<category><![CDATA[fail2ban]]></category>
+		<category><![CDATA[RunCloud]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=225</guid>
+
+					<description><![CDATA[在 RunCloud 管理的伺服器上使用 fail2ban 禁止暴力破解 WordPress 的 wp-login.php 的 IP 地址。
+<p><a href="/runcloud-login/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/runcloud-login/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ubuntu 安全更新 &#8211; OpenSSH 漏洞</title>
+		<link>/cve-2023-38408/</link>
+					<comments>/cve-2023-38408/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Sat, 29 Jul 2023 10:09:30 +0000</pubDate>
+				<category><![CDATA[RunCloud Panel]]></category>
+		<category><![CDATA[OpenSSH]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<guid isPermaLink="false">/?p=193</guid>
+
+					<description><![CDATA[Ubuntu 發布了一個安全更新來修復 OpenSSH 漏洞 CVE-2023-38408，在使用 ssh-agent 轉發時，OpenSSH 可以作為登入名運行程式
+<p><a href="/cve-2023-38408/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/cve-2023-38408/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

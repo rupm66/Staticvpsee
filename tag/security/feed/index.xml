@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Security &#8211; VpsEE</title>
+	<atom:link href="/tag/security/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Sat, 26 Aug 2023 13:19:55 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-woowp-new-logo-white-512-32x32.png</url>
+	<title>Security &#8211; VpsEE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>提高 WordPress 網站安全性的 7 個技巧</title>
+		<link>/website-security/</link>
+					<comments>/website-security/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 04:04:06 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Security]]></category>
+		<guid isPermaLink="false">/?p=296</guid>
+
+					<description><![CDATA[這是 WordPress 官方釋出一個簡短教學影片，指出 WordPress 網站初學者可以輕鬆使用 7 個的資安技巧，管理好你的網站安全。
+<p><a href="/website-security/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/website-security/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

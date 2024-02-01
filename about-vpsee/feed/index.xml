@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	〈關於 VpsEE〉的留言	</title>
+	<atom:link href="/about-vpsee/feed/" rel="self" type="application/rss+xml" />
+	<link>/about-vpsee/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Sat, 26 Aug 2023 12:45:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		留言者: yungke		</title>
+		<link>/about-vpsee/#comment-2</link>
+
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Tue, 08 Aug 2023 03:06:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=214#comment-2</guid>
+
+					<description><![CDATA[因為要測試 WordPress 的功能，所以，建置了太多的 WP 網站，文章也分散各個網站。
+今年會開始慢慢整合到這個 WooWP 官方部落格這裡了。]]></description>
+			<content:encoded><![CDATA[<p>因為要測試 WordPress 的功能，所以，建置了太多的 WP 網站，文章也分散各個網站。<br />
+今年會開始慢慢整合到這個 WooWP 官方部落格這裡了。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

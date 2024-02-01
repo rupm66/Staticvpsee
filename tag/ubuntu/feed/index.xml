@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ubuntu &#8211; VpsEE</title>
+	<atom:link href="/tag/ubuntu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Mon, 09 Oct 2023 11:05:20 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-woowp-new-logo-white-512-32x32.png</url>
+	<title>Ubuntu &#8211; VpsEE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ubuntu 22.04 LTS 安全更新 – CVE-2023-4911 漏洞</title>
+		<link>/ubuntu-22-04-cve-2023-4911/</link>
+					<comments>/ubuntu-22-04-cve-2023-4911/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Sat, 07 Oct 2023 04:34:36 +0000</pubDate>
+				<category><![CDATA[RunCloud Panel]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<guid isPermaLink="false">/?p=360</guid>
+
+					<description><![CDATA[Ubuntu 發布了一個安全性更新來修復 GNU C 庫漏洞 CVE-2023-4911，其中 GNU C 庫錯誤地處理了 GLIBC_TUNABLES 環境變量。
+<p><a href="/ubuntu-22-04-cve-2023-4911/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/ubuntu-22-04-cve-2023-4911/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>top / htop 的替代品 btop</title>
+		<link>/install-btop/</link>
+					<comments>/install-btop/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Thu, 24 Aug 2023 14:21:33 +0000</pubDate>
+				<category><![CDATA[Daily Life]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<guid isPermaLink="false">/?p=304</guid>
+
+					<description><![CDATA[btop 是一個美觀的 Linux 資源監視器，顯示處理器、記憶體、硬碟、網路和進程的使用情況和統計​​訊息，它是 C++ 版本以及 bashtop 和 bpytop 的延續。
+<p><a href="/install-btop/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/install-btop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ubuntu 安全更新 &#8211; OpenSSH 漏洞</title>
+		<link>/cve-2023-38408/</link>
+					<comments>/cve-2023-38408/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Sat, 29 Jul 2023 10:09:30 +0000</pubDate>
+				<category><![CDATA[RunCloud Panel]]></category>
+		<category><![CDATA[OpenSSH]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<guid isPermaLink="false">/?p=193</guid>
+
+					<description><![CDATA[Ubuntu 發布了一個安全更新來修復 OpenSSH 漏洞 CVE-2023-38408，在使用 ssh-agent 轉發時，OpenSSH 可以作為登入名運行程式
+<p><a href="/cve-2023-38408/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/cve-2023-38408/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

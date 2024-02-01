@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	《VpsEE》的留言	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Mon, 15 Jan 2024 07:05:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		「yungke」發佈於〈同一個 IP 地址上有多個網站，SEO 會被降權嗎?〉的留言		</title>
+		<link>/google-multiple-sites-ip/#comment-4</link>
+
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 04:15:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=302#comment-4</guid>
+
+					<description><![CDATA[為什麼我會對單個 IP 上網站數量太多，對 SEO 有影響的說法這麼反感嗎?
+之前就被一個客戶搞過，堅持要一個獨立 IP，Kinsta 是不容許給獨立 IP 的，你有錢他也不給你。
+IPv4 現在越來越少了，共用 IP 已是一個普遍現象，如果還在說共用 IP 會影響 SEO，根本是一個無稽之談。]]></description>
+			<content:encoded><![CDATA[<p>為什麼我會對單個 IP 上網站數量太多，對 SEO 有影響的說法這麼反感嗎?<br />
+之前就被一個客戶搞過，堅持要一個獨立 IP，Kinsta 是不容許給獨立 IP 的，你有錢他也不給你。<br />
+IPv4 現在越來越少了，共用 IP 已是一個普遍現象，如果還在說共用 IP 會影響 SEO，根本是一個無稽之談。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		「yungke」發佈於〈WordPress 6.3 發佈〉的留言		</title>
+		<link>/wordpress-6-3/#comment-3</link>
+
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Thu, 10 Aug 2023 13:09:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=270#comment-3</guid>
+
+					<description><![CDATA[目前已知 Smart Slider 3 Pro 外掛會影響新增文章、頁面造成白頻。
+請更新到 3.5.1.18 版本修復。]]></description>
+			<content:encoded><![CDATA[<p>目前已知 Smart Slider 3 Pro 外掛會影響新增文章、頁面造成白頻。<br />
+請更新到 3.5.1.18 版本修復。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		「yungke」發佈於〈關於 VpsEE〉的留言		</title>
+		<link>/about-vpsee/#comment-2</link>
+
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Tue, 08 Aug 2023 03:06:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=214#comment-2</guid>
+
+					<description><![CDATA[因為要測試 WordPress 的功能，所以，建置了太多的 WP 網站，文章也分散各個網站。
+今年會開始慢慢整合到這個 WooWP 官方部落格這裡了。]]></description>
+			<content:encoded><![CDATA[<p>因為要測試 WordPress 的功能，所以，建置了太多的 WP 網站，文章也分散各個網站。<br />
+今年會開始慢慢整合到這個 WooWP 官方部落格這裡了。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OpenSSH &#8211; VpsEE</title>
+	<atom:link href="/tag/openssh/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Sat, 26 Aug 2023 12:46:35 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-woowp-new-logo-white-512-32x32.png</url>
+	<title>OpenSSH &#8211; VpsEE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ubuntu 安全更新 &#8211; OpenSSH 漏洞</title>
+		<link>/cve-2023-38408/</link>
+					<comments>/cve-2023-38408/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Sat, 29 Jul 2023 10:09:30 +0000</pubDate>
+				<category><![CDATA[RunCloud Panel]]></category>
+		<category><![CDATA[OpenSSH]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<guid isPermaLink="false">/?p=193</guid>
+
+					<description><![CDATA[Ubuntu 發布了一個安全更新來修復 OpenSSH 漏洞 CVE-2023-38408，在使用 ssh-agent 轉發時，OpenSSH 可以作為登入名運行程式
+<p><a href="/cve-2023-38408/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/cve-2023-38408/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

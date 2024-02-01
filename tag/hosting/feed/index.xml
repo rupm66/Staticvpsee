@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hosting &#8211; VpsEE</title>
+	<atom:link href="/tag/hosting/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Fri, 04 Aug 2023 10:35:47 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-woowp-new-logo-white-512-32x32.png</url>
+	<title>Hosting &#8211; VpsEE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kinsta 對電子郵件的限制</title>
+		<link>/kinsta-email/</link>
+					<comments>/kinsta-email/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2023 07:42:54 +0000</pubDate>
+				<category><![CDATA[Kinsta Cloud]]></category>
+		<category><![CDATA[Hosting]]></category>
+		<category><![CDATA[Kinsta]]></category>
+		<guid isPermaLink="false">/?p=235</guid>
+
+					<description><![CDATA[Kinsta 主機是沒有電子郵件發信服務，你的 WordPress 要正常的收 / 發信件，需要安裝 SMTP 外掛，和一個有效的 SMTP 伺服器。
+<p><a href="/kinsta-email/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/kinsta-email/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

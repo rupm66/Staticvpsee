@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	〈同一個 IP 地址上有多個網站，SEO 會被降權嗎?〉的留言	</title>
+	<atom:link href="/google-multiple-sites-ip/feed/" rel="self" type="application/rss+xml" />
+	<link>/google-multiple-sites-ip/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Sat, 26 Aug 2023 12:45:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		留言者: yungke		</title>
+		<link>/google-multiple-sites-ip/#comment-4</link>
+
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 04:15:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=302#comment-4</guid>
+
+					<description><![CDATA[為什麼我會對單個 IP 上網站數量太多，對 SEO 有影響的說法這麼反感嗎?
+之前就被一個客戶搞過，堅持要一個獨立 IP，Kinsta 是不容許給獨立 IP 的，你有錢他也不給你。
+IPv4 現在越來越少了，共用 IP 已是一個普遍現象，如果還在說共用 IP 會影響 SEO，根本是一個無稽之談。]]></description>
+			<content:encoded><![CDATA[<p>為什麼我會對單個 IP 上網站數量太多，對 SEO 有影響的說法這麼反感嗎?<br />
+之前就被一個客戶搞過，堅持要一個獨立 IP，Kinsta 是不容許給獨立 IP 的，你有錢他也不給你。<br />
+IPv4 現在越來越少了，共用 IP 已是一個普遍現象，如果還在說共用 IP 會影響 SEO，根本是一個無稽之談。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

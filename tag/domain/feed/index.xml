@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Domain &#8211; VpsEE</title>
+	<atom:link href="/tag/domain/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Sat, 19 Aug 2023 13:00:46 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-woowp-new-logo-white-512-32x32.png</url>
+	<title>Domain &#8211; VpsEE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>www.domain.com/wp-signup.php?new=domain.com 重新導向的問題</title>
+		<link>/domain-direct/</link>
+					<comments>/domain-direct/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Sat, 12 Aug 2023 04:30:56 +0000</pubDate>
+				<category><![CDATA[Kinsta Cloud]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Domain]]></category>
+		<guid isPermaLink="false">/?p=281</guid>
+
+					<description><![CDATA[這種重新導向錯誤的問題，會發生在 WordPress Multisite 多網域模式下，尤其是不同網域映射 (Mapping) 的情形下。
+<p><a href="/domain-direct/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/domain-direct/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

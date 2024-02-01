@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WordPress &#8211; VpsEE</title>
+	<atom:link href="/category/wp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Wed, 17 Jan 2024 05:12:59 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-woowp-new-logo-white-512-32x32.png</url>
+	<title>WordPress &#8211; VpsEE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WordPress 管理控制台中禁用佈景主題和外掛編輯器</title>
+		<link>/disable-editing-in-dashboard/</link>
+					<comments>/disable-editing-in-dashboard/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Thu, 23 Nov 2023 10:47:18 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<guid isPermaLink="false">/?p=380</guid>
+
+					<description><![CDATA[受到 File Manager plugin 外掛漏洞的影響，避免客戶安裝這一類的高危險外掛，請在 wp-config.php 文件裡，加入以下代碼禁止客戶使用。
+<p><a href="/disable-editing-in-dashboard/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/disable-editing-in-dashboard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>如何在 WordPress RSS Feed 中顯示精選圖片</title>
+		<link>/wordpress-rss-feed/</link>
+					<comments>/wordpress-rss-feed/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Thu, 23 Nov 2023 10:24:38 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Feed]]></category>
+		<category><![CDATA[RSS]]></category>
+		<guid isPermaLink="false">/?p=379</guid>
+
+					<description><![CDATA[儘管有些人可能認為 RSS 已經退流行了，但許多其他服務仍在使用它們，像我的部落格，至目前還是使用 Feedly 還是有一些死忠的讀者來閱讀 RSS 文章。
+<p><a href="/wordpress-rss-feed/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/wordpress-rss-feed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vultr VPS 主機上安裝 Webinoly</title>
+		<link>/vultr-webinoly/</link>
+					<comments>/vultr-webinoly/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Wed, 01 Nov 2023 07:41:58 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Webinoly]]></category>
+		<guid isPermaLink="false">/?p=371</guid>
+
+					<description><![CDATA[當在 Vultr 上部署新的執行個體時 (VPS)，它會自動啟用 UFW（簡單防火牆），以阻止除 SSH 連接埠 22 之外的所有連接埠。
+<p><a href="/vultr-webinoly/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/vultr-webinoly/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WP Rocket 外掛設定 Rocket-Nginx 快取規則</title>
+		<link>/wp-rocket-nginx/</link>
+					<comments>/wp-rocket-nginx/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Wed, 25 Oct 2023 05:55:43 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WP Rocket]]></category>
+		<guid isPermaLink="false">/?p=365</guid>
+
+					<description><![CDATA[Rocket-Nginx 是 WordPress 快取外掛 WP Rocket 的 Nginx 規則設定，使 Nginx 能夠直接提供先前快取的文件給瀏覽者，而無需呼叫 WordPress 或任何 PHP 程式。
+<p><a href="/wp-rocket-nginx/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/wp-rocket-nginx/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cloudflare WAF 阻止 WordPress 垃圾評論</title>
+		<link>/cloudflare-rule-spam/</link>
+					<comments>/cloudflare-rule-spam/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Mon, 04 Sep 2023 06:46:51 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[SPAM]]></category>
+		<guid isPermaLink="false">/?p=334</guid>
+
+					<description><![CDATA[設定 Cloudflare 防火牆規則來阻止所有 WordPress 網站上的垃圾評論的簡單方法。
+<p><a href="/cloudflare-rule-spam/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/cloudflare-rule-spam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WordPress 使用系統字型</title>
+		<link>/wordpress-system-fonts/</link>
+					<comments>/wordpress-system-fonts/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Wed, 30 Aug 2023 11:23:08 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Google Fonts]]></category>
+		<guid isPermaLink="false">/?p=316</guid>
+
+					<description><![CDATA[在 WordPress 的字型運用有非常多的方法，我個人一直偏愛使用系統字型，其原因，系統字體就像網路基本字型一樣工作，讓網頁載入更快。
+<p><a href="/wordpress-system-fonts/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/wordpress-system-fonts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

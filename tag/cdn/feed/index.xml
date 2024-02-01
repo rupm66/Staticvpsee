@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CDN &#8211; VpsEE</title>
+	<atom:link href="/tag/cdn/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Sun, 20 Aug 2023 08:00:36 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-woowp-new-logo-white-512-32x32.png</url>
+	<title>CDN &#8211; VpsEE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Automattic CDN 撤出台北節點</title>
+		<link>/automattic-cdn/</link>
+					<comments>/automattic-cdn/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Fri, 11 Aug 2023 04:44:24 +0000</pubDate>
+				<category><![CDATA[Daily Life]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[CDN]]></category>
+		<category><![CDATA[Matt]]></category>
+		<guid isPermaLink="false">/?p=271</guid>
+
+					<description><![CDATA[Automattic 大家可能會陌生，但提到 WordPress.com 平台及網路佔有率 43% 的 WordPress.org CMS，相信大家就都不陌生了。 
+<p><a href="/automattic-cdn/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/automattic-cdn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

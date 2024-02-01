@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	〈WordPress 管理控制台中禁用佈景主題和外掛編輯器〉的留言	</title>
+	<atom:link href="/disable-editing-in-dashboard/feed/" rel="self" type="application/rss+xml" />
+	<link>/disable-editing-in-dashboard/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Wed, 17 Jan 2024 05:12:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>

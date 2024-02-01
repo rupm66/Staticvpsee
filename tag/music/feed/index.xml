@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Music &#8211; VpsEE</title>
+	<atom:link href="/tag/music/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Wed, 16 Aug 2023 13:15:56 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-woowp-new-logo-white-512-32x32.png</url>
+	<title>Music &#8211; VpsEE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Experience an electrifying PFC Band performance at Billboard Live Osaka!</title>
+		<link>/a-fool-for-you-osaka/</link>
+					<comments>/a-fool-for-you-osaka/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Sat, 12 Aug 2023 09:13:41 +0000</pubDate>
+				<category><![CDATA[Enjoy Music]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Playing For Change]]></category>
+		<guid isPermaLink="false">/?p=287</guid>
+
+					<description><![CDATA[The Playing For Change 在日本大阪 Billboard Live 舞台上詮釋 Ray Charles 經典藍調歌曲 A Fool For You 的迷人表演。
+<p><a href="/a-fool-for-you-osaka/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/a-fool-for-you-osaka/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

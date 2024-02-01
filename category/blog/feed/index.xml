@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Daily Life &#8211; VpsEE</title>
+	<atom:link href="/category/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Mon, 04 Sep 2023 06:34:47 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-woowp-new-logo-white-512-32x32.png</url>
+	<title>Daily Life &#8211; VpsEE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>301 / 302 Redirects 重定向轉址</title>
+		<link>/website-redirects/</link>
+					<comments>/website-redirects/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Fri, 01 Sep 2023 01:38:40 +0000</pubDate>
+				<category><![CDATA[Daily Life]]></category>
+		<category><![CDATA[Kinsta Cloud]]></category>
+		<category><![CDATA[301]]></category>
+		<category><![CDATA[302]]></category>
+		<category><![CDATA[Redirects]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=325</guid>
+
+					<description><![CDATA[301 及 302 這兩種形式的重定向 (Redirects) 都會將網站從一個 URL 或網頁發送到另一個 URL 或網頁。
+<p><a href="/website-redirects/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/website-redirects/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>top / htop 的替代品 btop</title>
+		<link>/install-btop/</link>
+					<comments>/install-btop/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Thu, 24 Aug 2023 14:21:33 +0000</pubDate>
+				<category><![CDATA[Daily Life]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<guid isPermaLink="false">/?p=304</guid>
+
+					<description><![CDATA[btop 是一個美觀的 Linux 資源監視器，顯示處理器、記憶體、硬碟、網路和進程的使用情況和統計​​訊息，它是 C++ 版本以及 bashtop 和 bpytop 的延續。
+<p><a href="/install-btop/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/install-btop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>同一個 IP 地址上有多個網站，SEO 會被降權嗎?</title>
+		<link>/google-multiple-sites-ip/</link>
+					<comments>/google-multiple-sites-ip/#comments</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 15:01:10 +0000</pubDate>
+				<category><![CDATA[Daily Life]]></category>
+		<category><![CDATA[John Mueller]]></category>
+		<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">/?p=302</guid>
+
+					<description><![CDATA[引述 Google 說明：同一個 IP 地址上有多個網站不是問題，但是，內容相似性才是問題。
+<p><a href="/google-multiple-sites-ip/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/google-multiple-sites-ip/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>安裝 Discuz! x3.5 時資料庫報錯 Discuz! Database Error</title>
+		<link>/discuz-mysql-error/</link>
+					<comments>/discuz-mysql-error/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 08:18:21 +0000</pubDate>
+				<category><![CDATA[Daily Life]]></category>
+		<category><![CDATA[Discuz!]]></category>
+		<guid isPermaLink="false">/?p=300</guid>
+
+					<description><![CDATA[虛擬環境全新安裝 Discuz! X3.5 程式，系統環境都符合要求，但是，安裝到資料庫時卻顯示 Discuz! Database Error 資料庫版本太低。
+<p><a href="/discuz-mysql-error/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/discuz-mysql-error/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Automattic CDN 撤出台北節點</title>
+		<link>/automattic-cdn/</link>
+					<comments>/automattic-cdn/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Fri, 11 Aug 2023 04:44:24 +0000</pubDate>
+				<category><![CDATA[Daily Life]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[CDN]]></category>
+		<category><![CDATA[Matt]]></category>
+		<guid isPermaLink="false">/?p=271</guid>
+
+					<description><![CDATA[Automattic 大家可能會陌生，但提到 WordPress.com 平台及網路佔有率 43% 的 WordPress.org CMS，相信大家就都不陌生了。 
+<p><a href="/automattic-cdn/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/automattic-cdn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>關於 VpsEE</title>
+		<link>/about-vpsee/</link>
+					<comments>/about-vpsee/#comments</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Fri, 28 Jul 2023 07:11:58 +0000</pubDate>
+				<category><![CDATA[Daily Life]]></category>
+		<category><![CDATA[JET WooWP]]></category>
+		<category><![CDATA[phpbb]]></category>
+		<category><![CDATA[WooWP]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=214</guid>
+
+					<description><![CDATA[VpsEE 的內容是從之前的論壇遷移過來的，有一些技術文章丟了可惜，就搬來這邊吧 !
+<p><a href="/about-vpsee/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/about-vpsee/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>YouTube &#8211; VpsEE</title>
+	<atom:link href="/tag/youtube/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress &#38; VPS 技術討論</description>
+	<lastBuildDate>Mon, 15 Jan 2024 07:07:14 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-woowp-new-logo-white-512-32x32.png</url>
+	<title>YouTube &#8211; VpsEE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WordPress 6.3 發佈</title>
+		<link>/wordpress-6-3/</link>
+					<comments>/wordpress-6-3/#comments</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2023 07:46:02 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WP News]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<guid isPermaLink="false">/?p=270</guid>
+
+					<description><![CDATA[WordPress 6.3 是 WordPress 路線圖在第二階段的最後一個主要版本，在第二階段開發，主要集中在全站編輯器上，增加了其功能，並改進了界面和可用性。
+<p><a href="/wordpress-6-3/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/wordpress-6-3/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>60 秒即可建置一個令人驚嘆的 WordPress 網站</title>
+		<link>/zipwp-ai/</link>
+					<comments>/zipwp-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Tue, 08 Aug 2023 02:53:54 +0000</pubDate>
+				<category><![CDATA[WP News]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<guid isPermaLink="false">/?p=269</guid>
+
+					<description><![CDATA[網站建置的人工智慧 AI 革命。只需描述你的想法，然後就可以看到 WordPress 網站在你眼前建置起來。
+<p><a href="/zipwp-ai/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/zipwp-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bricks Builder 教學 &#8211; 頁面和文章和 WooCommerce 速度最佳化</title>
+		<link>/bricks-builder-tutorial/</link>
+					<comments>/bricks-builder-tutorial/#respond</comments>
+		
+		<dc:creator><![CDATA[yungke]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 03:04:11 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WP News]]></category>
+		<category><![CDATA[Bricks Builder]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<guid isPermaLink="false">/?p=265</guid>
+
+					<description><![CDATA[Web Squadron 第一次看到 Bricks 之後，花了更多時間在上面，並分享更多關於創建簡單的 Bricks Builder 頁面的見解和方法，以及單篇文章和單個產品範例。
+<p><a href="/bricks-builder-tutorial/">內容來源</a></p>]]></description>
+		
+					<wfw:commentRss>/bricks-builder-tutorial/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
